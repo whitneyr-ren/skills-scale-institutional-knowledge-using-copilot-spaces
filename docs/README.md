@@ -30,7 +30,9 @@ Our project management approach follows five key phases, each with defined roles
 **Key Roles:**
 - **Project Manager (PM):** Coordinates delivery activities, schedules, and communications
 - **Product Manager (PdM):** Defines outcomes, prioritizes work, and measures success
-- **Stakeholders:** Provide inputs, approvals, and business context
+- **Stakeholders:** Provide inputs, approvals, and business context (Business Sponsors, Support, Sales)
+- **UX Designer:** Provide initial design concepts if applicable
+- **Data Analyst:** Help define measurable success criteria and baseline metrics
 
 📄 **Detailed Guide:** [Project Initiation](./octoacme-project-initiation.md)
 
@@ -52,6 +54,9 @@ Our project management approach follows five key phases, each with defined roles
 - **Product Manager (PdM):** Prioritizes backlog and defines acceptance criteria
 - **Developers:** Assist in estimating work and identifying technical risks
 - **QA/Testing:** Draft initial test plans and quality approach
+- **UX Designer:** Provide design specifications and validate acceptance criteria for UX features
+- **Data Analyst:** Help define measurable success metrics and KPIs
+- **Scrum Master/Delivery Lead:** Facilitate sprint planning and ensure backlog is ready
 
 📄 **Detailed Guides:** 
 - [Project Planning](./octoacme-project-planning.md)
@@ -75,6 +80,9 @@ Our project management approach follows five key phases, each with defined roles
 - **Project Manager (PM):** Tracks progress, manages risks, coordinates cross-team dependencies
 - **QA/Testing:** Validates quality and acceptance criteria
 - **Product Manager (PdM):** Reviews progress against success metrics
+- **UX Designer:** Validate implemented designs match specifications
+- **Data Analyst:** Monitor and report on success metrics and KPIs
+- **Scrum Master/Delivery Lead:** Facilitate standups, remove blockers, track velocity
 
 📄 **Detailed Guide:** [Execution & Tracking](./octoacme-execution-and-tracking.md)
 
@@ -96,6 +104,8 @@ Our project management approach follows five key phases, each with defined roles
 - **Project Manager (PM):** Coordinates release timeline and communications
 - **QA/Testing:** Runs smoke tests and validates deployment
 - **Product Manager (PdM):** Reviews release impact and metrics
+- **Data Analyst:** Set up monitoring for success metrics and prepare post-launch dashboards
+- **Support Team (Stakeholder):** Prepared with release notes and support documentation
 
 📄 **Detailed Guide:** [Release & Deployment](./octoacme-release-and-deployment.md)
 
@@ -116,6 +126,7 @@ Our project management approach follows five key phases, each with defined roles
 - **All Team Members:** Contribute feedback and implement improvements
 - **Project Manager (PM):** Facilitates retrospectives and tracks action items
 - **Product Manager (PdM):** Measures impact and incorporates learnings into roadmap
+- **Scrum Master/Delivery Lead:** Leads retrospective facilitation and coaches on continuous improvement
 
 📄 **Detailed Guide:** [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 
@@ -141,7 +152,10 @@ Understanding roles and responsibilities helps teams collaborate effectively:
 - **Product Manager (PdM):** Defines outcomes, prioritizes backlog, and measures success
 - **Developers:** Implement features, collaborate on design and testability
 - **QA/Testing:** Validate quality and acceptance criteria
-- **Stakeholders:** Provide inputs and approvals
+- **UX Designer:** Designs user experiences, conducts research, ensures usability and accessibility
+- **Data Analyst:** Measures success metrics, provides insights, informs data-driven decisions
+- **Scrum Master/Delivery Lead:** Facilitates agile practices, removes blockers, coaches teams
+- **Stakeholders:** Provide inputs, approvals, and business context (includes Business Sponsors, Support, Sales, and End Users)
 
 📄 **Detailed Guide:** [Roles & Personas](./octoacme-roles-and-personas.md)
 
@@ -171,6 +185,8 @@ Understanding roles and responsibilities helps teams collaborate effectively:
 - [Project Management Overview](./octoacme-project-management-overview.md) — High-level principles, scope, and artifacts
 - [Roles & Personas](./octoacme-roles-and-personas.md) — Detailed role definitions and responsibilities
 - [Risk Management & Communication](./octoacme-risks-and-communication.md) — How to identify, manage, and communicate risks
+- [Role Onboarding Checklist](./role-onboarding-checklist.md) — Structured onboarding guide for all roles
+- [Collaboration & Handoff Guide](./collaboration-and-handoff-guide.md) — Clear ownership and collaboration patterns between roles
 
 ---
 
